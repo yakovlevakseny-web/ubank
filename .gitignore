@@ -1,4 +1,6 @@
 .od-skills/
+.DS_Store
+tmp/
 *.artifact.json
 *.pdf
 *.jpg
